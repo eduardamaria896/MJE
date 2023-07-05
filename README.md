@@ -2,8 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="![Uploading image.png…]()
-">
+
 </head>
 <body>
   <h1>Receitas de Bolos</h1>
