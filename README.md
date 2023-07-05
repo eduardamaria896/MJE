@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="styles.css">
+  <link rel="![Uploading image.png…]()
+">
 </head>
 <body>
   <h1>Receitas de Bolos</h1>
