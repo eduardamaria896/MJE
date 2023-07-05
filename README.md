@@ -9,8 +9,7 @@
 
   <div class="recipe">
     <h2>Bolo de Chocolate</h2>
-    <img src="![Uploading image.png…]()
-">
+
     <p>Ingredientes:</p>
     <ul>
       <li>2 xícaras de farinha de trigo</li>
